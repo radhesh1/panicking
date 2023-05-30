@@ -34,7 +34,7 @@ static void bye(void)
 module_init(hi);     // what's called upon loading 
 module_exit(bye);    // what's called upon unloading  
 
-MODULE_AUTHOR("Gurjeet Singh"); 
+MODULE_AUTHOR("Radhesh Goel"); 
 MODULE_LICENSE("Dual BSD/GPL"); 
 MODULE_DESCRIPTION("Causes the kernel to panic.");
 
